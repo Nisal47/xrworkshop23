@@ -2198,6 +2198,13 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1838992027}
     m_Modifications:
+    - target: {fileID: 6885502208804983441, guid: f6bc512820d60ef4abad9213f4801cee,
+        type: 3}
+      propertyPath: m_text
+      value: 'Artefact Gallery
+
+'
+      objectReference: {fileID: 0}
     - target: {fileID: 6885502210079589814, guid: f6bc512820d60ef4abad9213f4801cee,
         type: 3}
       propertyPath: m_Name
